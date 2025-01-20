@@ -23,7 +23,7 @@ or, with Yarn:
 yarn start
 ```
 
-This command will start the development server and open the project in your default web browser. By default, the application runs on [http://localhost:5173](http://localhost:5173).
+This command will start the development server and open the project in your default web browser. By default, the application runs on [https://blinkworx-frontend.netlify.app/](https://blinkworx-frontend.netlify.app/).
 
 ### 3. Build the Project for Production
 
